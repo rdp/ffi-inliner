@@ -18,7 +18,7 @@ end
 
 CLOBBER << '*~' << '*.*~'
 
-PROJ.name = 'ffi-inliner'
+PROJ.name = 'rdp-ffi-inliner'
 PROJ.authors = 'Andrea Fazzi'
 PROJ.email = 'andrea.fazzi@alcacoop.it'
 PROJ.url = 'http://github.com/remogatto/ffi-inliner'
